@@ -1,0 +1,2 @@
+// yhn aik hi bar variables set kr localStorage, taky if change kro to hr jga ja k change na krna pry and name rkh k usy export kr do, ye koi system specific variable ni hy, is liay isy yhn bs const myn variable myn dala hy
+export const DB_NAME="videotube"
